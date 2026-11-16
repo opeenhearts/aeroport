@@ -1,0 +1,1 @@
+-- Données de test W (admin/profil) : rien de plus que modules/data.sql pour l'instant.
